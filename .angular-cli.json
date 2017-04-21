@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "clever-contracts"
+    "name": "angular2-redux-hmr-boilerplate"
   },
   "apps": [
     {
